@@ -1,4 +1,4 @@
-<?php require_once ('header.php'); ?>
+<?php require_once ('techno-header.php'); ?>
 
 <div class="container">
     <div class="header-margin">
@@ -29,8 +29,7 @@
         <p><strong>1. Civil Engineering</strong></p>
         <p><strong>2. Mechanical Engineering</strong></p>
         <p><strong>3. Electronics and Communication Engineering</strong></p>
-        <p><strong>4. Information Technology Engineering</strong></p>
-        <p><strong>5. Computer Science Engineering</strong></p>
+        <p><strong>4. Computer Science Engineering</strong></p>
         <p>
             The course is imparted through a mix of theory classes, tutorials, practical experiments, site visits and guest lectures. There is a strong emphasis on developing communication skills and overall personality of the students.
         </p>

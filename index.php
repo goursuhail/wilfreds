@@ -281,7 +281,7 @@
 </section>
 
 <div class="gallery-section">
-    <div class="gallery">
+    <div class="gallery container">
         <div class="grid-sizer">
             <div class="gallery-item gi-big set-bg" data-setbg="assets/img/gal1.jpg">
                 <a class="img-popup" href="assets/img/gal1.jpg"><i class="ti-plus"></i></a>
@@ -326,27 +326,27 @@
 <div class="row">
 <div class="col-xl-6">
 <div class="blog-item">
-<div class="blog-thumb set-bg" data-setbg="assets/img/news1.jpg"></div>
+<div class="blog-thumb set-bg" data-setbg="assets/img/farewell.jpg"></div>
 <div class="blog-content">
-<h4>Parents who try to be their children’s best friends</h4>
+<h4>Farewell Coming Soon</h4>
 <div class="blog-meta">
-<span><i class="fa fa-calendar-o"></i> 24 Mar 2018</span>
-<span><i class="fa fa-user"></i> Owen Wilson</span>
+<span><i class="fa fa-calendar-o"></i> 03 may 2019</span>
+<span><i class="fa fa-user"></i> Raghav saini</span>
 </div>
-<p>Integer luctus diam ac scerisque consectetur. Vimus dot euismod neganeco lacus sit amet. Aenean interdus mid vitae sed accumsan...</p>
+<p>Breaking news: Farewell party coming soon....!</p>
 </div>
 </div>
 </div>
 <div class="col-xl-6">
 <div class="blog-item">
-<div class="blog-thumb set-bg" data-setbg="assets/img/news2.jpg"></div>
+<div class="blog-thumb set-bg" data-setbg="assets/img/addmission.jpg"></div>
 <div class="blog-content">
-<h4>Graduations could be delayed as external examiners</h4>
+<h4>Addmission Started</h4>
 <div class="blog-meta">
-<span><i class="fa fa-calendar-o"></i> 23 Mar 2018</span>
-<span><i class="fa fa-user"></i> Owen Wilson</span>
+<span><i class="fa fa-calendar-o"></i> 01 May 2019</span>
+<span><i class="fa fa-user"></i> stwilfreds</span>
 </div>
-<p>Integer luctus diam ac scerisque consectetur. Vimus dot euismod neganeco lacus sit amet. Aenean interdus mid vitae sed accumsan...</p>
+<p>Breaking news: Addmission process has started.....</p>
 </div>
 </div>
 </div>
@@ -399,6 +399,7 @@
 </div>
 </div>
 </section>
+
 
 <!--footer section-->
 <?php require_once ('footer.php'); ?>

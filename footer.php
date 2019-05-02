@@ -5,12 +5,12 @@
 
             <div class="col-sm-6 col-lg-3 footer-widget">
                 <div class="about-widget">
-                    <img src="assets/img/logo.jpg" alt="">
+                    <img src="assets/img/college-logo.jpeg" alt="">
                     <p>Lorem ipsum dolor sit amet, consecter adipiscing elite. Donec minos varius, viverra justo ut, aliquet nisl.</p>
                     <div class="social pt-1">
-                        <a href=""><i class="fab fa-twitter"></i></a>
+                        <a href=""><i class="fab fa-twitter-square"></i></a>
                         <a href=""><i class="fab fa-facebook-square"></i></a>
-                        <a href=""><i class="fab fa-google-plus-square"></i></a>
+                        <a href=""><i class="fab fa-instagram"></i></a>
 
                     </div>
                 </div>
@@ -55,7 +55,7 @@
                 <ul class="contact">
                     <li><p><i class="fa fa-map-marker"></i>Near Balaji Temple, Gegal, Jaipur Rd, Ajmer, Rajasthan 305023 </p></li>
                     <li><p><i class="fa fa-phone"></i> 0145 231 0137</p></li>
-                    <li><p><i class="fa fa-envelope"></i> <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="5d34333b323938382f3e2f383c29342b381d3a303c3431733e3230">[email&#160;protected]</a></p></li>
+                    <li><p><i class="fa fa-envelope"></i> <a href="mailto:info@stwilfreds.in" class="__cf_email__">info@stwilfreds.in</a></p></li>
                     <li><p><i class="fa fa-clock-o"></i> Monday - Friday, 09:00AM - 05:00 PM</p></li>
                 </ul>
             </div>
@@ -88,4 +88,6 @@
   gtag('config', 'UA-23581568-13');
 </script>
 <script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="c243937f5193755f7bca314b-|49" defer=""></script></body>
+
+</div>
 </html>

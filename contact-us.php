@@ -1,45 +1,75 @@
 <?php require_once ('header.php'); ?>
 
 <div class="container">
+    <div class="row">
+    <div class="col">
     <div class="header-margin">
-        <h2>#Contact Us:</h2>
+        <h2>Contact Us:</h2>
     </div>
-    <div class="contact-wrapper-1">
-        <h2 id="campus-margin">Jaipur Campus</h2>
-        <p id="campus-margin">Campus-1</p>
-        <p><strong>
-                Sector-10, Meera Marg, Madhyam Marg, Mansarover, Jaipur-302020(Rajasthan)<br>
-                Ph: 0141-2780436,2780904,2783245,3248333<br>
-                Fax: 91-0141-2784426
-            </strong></p>
-        <p id="campus-margin">Campus-II (Girls College)</p>
-        <p>
-            <strong>
-                Sector-5, Near Technology Park, Vashishtha Marg, Shipra Path, Mansarover, Jaipur-302020(Raj.)<br>
-                Ph: 0141-2783476,3100989
-            </strong>
-        </p>
-    </div>
-    <div class="contact-wrapper-2">
-        <h2>Mumbai Campus</h2><br>
-        <p><strong>Shedung Toll Plaza, Near Ayush Resorts,<br></strong></p>
-        <p><strong>Old Mumbai-Pune Highway, Panvel, Dist. Raigad,<br></strong></p>
-        <p><strong>Navi Mumbai PIN- 410206 Ph:  8655678500, 8655678501, 09270385625, 09270392602</strong></p>
-        <a href="http://stwilfreds.org/">website:-   st.wilfreds.org</a>
-    </div>
-    <div class="contact-wrapper-3">
+
         <div id="campus-margin">
-        <h2>Ajmer Campus</h2><br>
-        <p><strong>
-                Gegal, Near Balaji, Jaipur Road, Ajmer- 305023 (Rajasthan)<br>
-                Ph: 0145-2310137,3206162
-            </strong></p>
+            <h4>Ajmer Campus</h4>
         </div>
-        <div id="campus-margin">
-            <h2>St.Wilfred’s Group of Colleges</h2><br>
-            <a href="#">website:- #</a>
-            <p>Email:-  nfo@stwilfreds.com, st.wilfreds@gmail.com</p>
+            <div class="address">
+            <p>
+                <strong>
+                    Gegal, Near Balaji, Jaipur Road, Ajmer- 305023 (Rajasthan)
+                    Ph: 0145-2310137,3206162
+                </strong>
+            </p>
         </div>
+
+    </div>
+
+    <div class="form-col1">
+        <form>
+            <div class="apply-online">
+                <h2>Apply Online</h2>
+            </div>
+            <div class="form-row1">
+            <div class="col col-md-6">
+            <div class="form-group">
+                <label for="exampleInputName" class="name">Name</label>
+                <input type="text" class="form-control" id="exampleInputName"  placeholder="Enter Name">
+            </div>
+            </div>
+            <div class="col col-md-6">
+            <div class="form-group">
+                <label for="exampleInputPass">Phone</label>
+                <input type="text" class="form-control" id="exampleInputPass" placeholder="Enter phone">
+            </div>
+            </div>
+            <div class="col col-md-6">
+            <div class="form-group">
+                <label for="exampleInputPass">Class</label>
+                <input type="text" class="form-control" id="exampleInputPass" placeholder="Enter Class">
+            </div>
+            </div>
+            <div class="col col-md-6">
+            <div class="form-group">
+                <label for="exampleInputPass">Email</label>
+                <input type="text" class="form-control" id="exampleInputPass" placeholder="Enter Email">
+            </div>
+            </div>
+            <div class="col col-md-6">
+            <div class="form-group">
+                <label for="exampleInputPass">Select college, you want to apply</label>
+                <select name="choose" id="college-choose">
+                    <option>B.tech</option>
+                    <option>B.arch</option>
+                </select>
+            </div>
+            </div>
+            <div class="col col-md-6">
+            <div class="form-group">
+                <label>Message</label>
+                <textarea name="" rows="4" cols="50"></textarea>
+            </div>
+            </div>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
     </div>
 </div>
 
