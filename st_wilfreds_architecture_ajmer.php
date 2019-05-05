@@ -5,6 +5,11 @@
     <div class="header-margin">
         <h2>St. Wilfreds Institute of Architecture(Ajmer)</h2>
     </div>
+    <div class="reap-code-tech">
+        <h2>RPET CODE
+            013
+        </h2>
+    </div>
     <div id="campus-margin">
         <p>
             <strong>Courses offered: B. Arch (Bachelor of Architecture)</strong>

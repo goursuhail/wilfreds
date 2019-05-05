@@ -83,10 +83,12 @@ $(window).on('load', function() {
 		}
 	});
 
+	/**
 	$('.gallery').masonry({
 		itemSelector: '.gallery-item',
 		columnWidth: '.grid-sizer'
 	});
+	 **/
 
 
 
@@ -114,6 +116,25 @@ $(window).on('load', function() {
 		mainClass: 'img-popup-warp',
 		removalDelay: 400,
 	});
+
+
+	/**---------------------
+	Sticky
+	**/
+	$(window).scroll(function() {
+		if($(window).scrollTop() > 140) {
+			$(".nav-section").addClass('sticky');
+		} else {
+			$(".nav-section").removeClass('sticky');
+		}
+	});
+
+	/**-------
+	 slick
+	 **/
+
+
+
 
 
 

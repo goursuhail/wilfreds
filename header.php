@@ -38,7 +38,13 @@
         <div class="nav-switch">
             <i class="fa fa-bars"></i>
         </div>
+
+
         <div class="header-info">
+            <div class="college-name">
+                <h2><strong>St Wilfreds Group of Colleges, Ajmer</strong></h2>
+            </div>
+    <!--
             <div class="hf-item">
                 <i class="fa fa-clock-o"></i>
                 <p><span>Working time:</span>Monday - Friday: 09 AM - 05 PM</p>
@@ -48,7 +54,10 @@
                 <p><span>Find us:</span>Near Balaji Temple, Gegal, Jaipur Rd, <br>
                     Ajmer, Rajasthan 305023</p>
             </div>
+
+-->
         </div>
+
 
         <a href="index.php" class="site-logo"><img src="assets/img/college-logo.jpeg" alt=""></a>
     </div>
@@ -57,7 +66,7 @@
     <div class="share-icon-wrapper">
         <ul id=show>
             <li class="sub-share">
-                <a href="">
+                <a href="https://www.facebook.com/swiet.ajmer.52">
                     <span class="fa-stack fa-2x">
                       <i class="fas fa-square fa-stack-2x"></i>
                       <i class="fab fa-facebook fa-stack-1x fa-inverse"></i>
@@ -67,7 +76,7 @@
 
             </li>
             <li class="sub-share">
-                <a href="">
+                <a href="https://twitter.com/StColleges">
                      <span class="fa-stack fa-2x">
                       <i class="fas fa-square fa-stack-2x"></i>
                       <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
@@ -76,7 +85,7 @@
 
             </li>
             <li class="sub-share">
-                <a href="">
+                <a href="https://www.instagram.com/stwilfredsajmer/">
                      <span class="fa-stack fa-2x">
                       <i class="fas fa-square fa-stack-2x"></i>
                       <i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
@@ -105,9 +114,11 @@
             </li>
             <li class="sub-menu"><a href="#">Courses</a>
                 <ul class="sub-menu-about">
-                    <li class="sub-about-item"><a href="st_wilfreds_institute_engin_tech_ajmer.php">St. wilfreds institute of engineering & technology (ajmer)</a></li>
-                    <li class="sub-about-item"><a href="st_wilfreds_law_college_ajmer.php">St. wilfreds law college (ajmer)</a></li>
-                    <li class="sub-about-item"><a href="st_wilfreds_architecture_ajmer.php">St. wilfreds institute of architecture (ajmer)</a></li>
+                    <li class="sub-about-item"><a href="st_wilfreds_institute_engin_tech_ajmer.php">B.tech</a></li>
+                    <li class="sub-about-item"><a href="st_wilfreds_architecture_ajmer.php">B.arch</a></li>
+                    <li class="sub-about-item"><a href="st_wilfreds_law_college_ajmer.php">LLB</a></li>
+                    <li class="sub-about-item"><a href="bca.php">BCA</a></li>
+                    <li class="sub-about-item"><a href="iti_college.php">ITI</a></li>
                 </ul>
             </li>
             <li class="sub-menu"><a href="#">Admission</a>
@@ -116,15 +127,20 @@
                 <li class="sub-about-item"><a href="scholarship.php">Scholarship</a></li>
             </ul>
             </li>
-            <li><a href="course.html">Acadmics</a></li>
-            <li><a href="blog.html">Training & Placement</a></li>
-            <li><a href="blog.html">Infrastructure</a></li>
+            <!--<li><a href="course.html">Acadmics</a></li>-->
+            <li><a href="training_and_placement.php">Training & Placement</a>
+            </li>
+            <li><a href="infrastructure.php">Infrastructure</a></li>
             <li class="sub-menu"><a href="contact-us.php">Contact Us</a>
                 <ul class="sub-menu-about">
                     <li class="sub-about-item"><a href="management.php">management contacts</a></li>
                 </ul>
             </li>
-        </ul
+
+        </ul>
+        <div class="menu-apply">
+            <a href="apply_now.php">Apply Now</a>
+        </div>
     </div>
 </nav>
 
@@ -132,6 +148,9 @@
 <section class="hero-section">
     <div class="hero-slider owl-carousel">
 
+        <div class="hs-item set-bg" data-setbg="assets/img/poster1.jpg">
+
+        </div>
         <div class="hs-item set-bg" data-setbg="assets/img/home-photo1.jpg">
             <div class="hs-text">
                 <div class="container">
@@ -146,35 +165,8 @@
                 </div>
             </div>
         </div>
-        <div class="hs-item set-bg" data-setbg="assets/img/home-photo2.jpg">
-            <div class="hs-text">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8">
-                            <div class="hs-subtitle">ST. WILFRED'S COLLEGE, AJMER</div>
-                            <h2 class="hs-title">An investment in knowledge pays the best interest.</h2>
-                            <p class="hs-des">Education is not just about going to school and getting a degree. It's about widening your<br> knowledge and absorbing the truth about life. Knowledge is power.</p>
-                            <div class="site-btn">GET STARTED</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="hs-item set-bg" data-setbg="assets/img/home-photo3.jpg">
-            <div class="hs-text">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8">
-                            <div class="hs-subtitle">ST. WILFRED'S COLLEGE, AJMER</div>
-                            <h2 class="hs-title">An investment in knowledge pays the best interest.</h2>
-                            <p class="hs-des">Education is not just about going to school and getting a degree. It's about widening your<br> knowledge and absorbing the truth about life. Knowledge is power.</p>
-                            <div class="site-btn">GET STARTED</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="hs-item set-bg" data-setbg="assets/img/home-photo4.jpg">
+
+        <div class="hs-item set-bg" data-setbg="assets/img/sport1.jpg">
             <div class="hs-text">
                 <div class="container">
                     <div class="row">

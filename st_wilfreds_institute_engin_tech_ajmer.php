@@ -4,6 +4,11 @@
     <div class="header-margin">
         <h2>St. Wilfreds Institute of Engineering & Technology(Ajmer)</h2>
     </div>
+    <div class="reap-code-tech">
+        <h2>REAP CODE
+            089
+        </h2>
+    </div>
     <div id="campus-margin">
         <p>
             St Wilfred’s Institute of Engineering and Technology is an AICTE approved Engineering College at Ajmer in Rajasthan. It is affiliated to Rajasthan Technical University (RTU) Kota. It meets and exceeds the curriculum requirements of RTU Kota.

@@ -6,11 +6,11 @@
             <div class="col-sm-6 col-lg-3 footer-widget">
                 <div class="about-widget">
                     <img src="assets/img/college-logo.jpeg" alt="">
-                    <p>Lorem ipsum dolor sit amet, consecter adipiscing elite. Donec minos varius, viverra justo ut, aliquet nisl.</p>
+                    <p>St. Wilfred’s Institute of Engineering and Technology a premier Institute in Ajmer is firmly rooted and has been verdantly bloomed.</p>
                     <div class="social pt-1">
-                        <a href=""><i class="fab fa-twitter-square"></i></a>
-                        <a href=""><i class="fab fa-facebook-square"></i></a>
-                        <a href=""><i class="fab fa-instagram"></i></a>
+                        <a href="https://twitter.com/StColleges"><i class="fab fa-twitter-square"></i></a>
+                        <a href="https://www.facebook.com/swiet.ajmer.52"><i class="fab fa-facebook-square"></i></a>
+                        <a href="https://www.instagram.com/stwilfredsajmer/"><i class="fab fa-instagram"></i></a>
 
                     </div>
                 </div>
@@ -20,18 +20,17 @@
                 <h6 class="fw-title">USEFUL LINK</h6>
                 <div class="dobule-link">
                     <ul>
-                        <li><a href="">Home</a></li>
-                        <li><a href="">About us</a></li>
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="contact-us.php">Contact us</a></li>
                         <li><a href="">Services</a></li>
-                        <li><a href="">Events</a></li>
-                        <li><a href="">Features</a></li>
+
+
                     </ul>
                     <ul>
                         <li><a href="">Policy</a></li>
                         <li><a href="">Term</a></li>
                         <li><a href="">Help</a></li>
-                        <li><a href="">FAQs</a></li>
-                        <li><a href="">Site map</a></li>
+                        <li><a href="https://goo.gl/maps/c2K3hVundcbYvqZ36">Google map</a></li>
                     </ul>
                 </div>
             </div>
@@ -54,9 +53,9 @@
                 <h6 class="fw-title">CONTACT</h6>
                 <ul class="contact">
                     <li><p><i class="fa fa-map-marker"></i>Near Balaji Temple, Gegal, Jaipur Rd, Ajmer, Rajasthan 305023 </p></li>
-                    <li><p><i class="fa fa-phone"></i> 0145 231 0137</p></li>
+                    <li><p><i class="fa fa-phone"></i>9214210692</p></li>
                     <li><p><i class="fa fa-envelope"></i> <a href="mailto:info@stwilfreds.in" class="__cf_email__">info@stwilfreds.in</a></p></li>
-                    <li><p><i class="fa fa-clock-o"></i> Monday - Friday, 09:00AM - 05:00 PM</p></li>
+                    <li><p><i class="fa fa-clock-o"></i> Monday - Saturday, 09:00AM - 05:00 PM</p></li>
                 </ul>
             </div>
         </div>
@@ -65,7 +64,7 @@
     <div class="copyright">
         <div class="container">
             <p>
-                Copyright &copy;<script data-cfasync="false" src="assets/js/email-decode.min.js"></script><script type="c243937f5193755f7bca314b-text/javascript">document.write(new Date().getFullYear());</script> All rights reserved | This website is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="#" target="_blank">Suhail Gour</a>
+                Copyright &copy;<script data-cfasync="false" src="assets/js/email-decode.min.js"></script><script type="c243937f5193755f7bca314b-text/javascript">document.write(new Date().getFullYear());</script> All rights reserved | This website is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://www.facebook.com/sahail.khan.77985" target="_blank">Suhail Gour</a>
             </p>
         </div>
     </div>

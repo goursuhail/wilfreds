@@ -68,10 +68,11 @@
 </div>
 </section>
 
-
+<!--
 <section class="enroll-section spad set-bg" data-setbg="assets/img/background.jpg">
 <div class="container">
 <div class="row">
+
 <div class="col-lg-5">
 <div class="section-title text-white">
 <h3>ENROLLMENT</h3>
@@ -81,7 +82,9 @@
 <div class="enroll-list-item">
 <span>1</span>
 <h5>Contact</h5>
-<p>Lorem ipsum dolor sitdo amet, consectetur dont adipis elit. Vivamus interdum ultrices augue.</p>
+<p>Acadmic head - Abhinav kashyap.<br>
+                  Mo.- 7300159539
+</p>
 </div>
 <div class="enroll-list-item">
 <span>2</span>
@@ -95,13 +98,14 @@
 </div>
 </div>
 </div>
+
 <div class="col-lg-6 offset-lg-1 p-lg-0 p-4">
 <img src="assets/img/student.jpg" alt="">
 </div>
 </div>
 </div>
 </section>
-
+-->
 
 <section class="courses-section spad">
 <div class="container">
@@ -207,7 +211,7 @@
 <i class="ti-crown"></i>
 </div>
 <div class="fact-text">
-<h2>12</h2>
+<h2>10</h2>
 <p>YEARS</p>
 </div>
 </div>
@@ -216,7 +220,7 @@
 <i class="ti-briefcase"></i>
 </div>
 <div class="fact-text">
-<h2>50</h2>
+<h2>150+</h2>
 <p>TEACHERS</p>
 </div>
 </div>
@@ -225,7 +229,7 @@
 <i class="ti-user"></i>
 </div>
 <div class="fact-text">
-<h2>500</h2>
+<h2>3000+</h2>
 <p>STUDENTS</p>
 </div>
 </div>
@@ -253,28 +257,16 @@
 <div class="col-md-6 event-item">
 <div class="event-thumb">
 <img src="assets/img/event1.jpg" alt="">
-<div class="event-date">
-<span>30 March 2019</span>
+
 </div>
-</div>
-<div class="event-info">
-<h4>The dos and don'ts of writing a personal<br>statement for languages</h4>
-<p><i class="fa fa-calendar-o"></i> 08:00 AM - 10:00 AM <i class="fa fa-map-marker"></i> Center Building, Block A</p>
-<a href="" class="event-readmore">REGISTER <i class="fa fa-angle-double-right"></i></a>
-</div>
+
 </div>
 <div class="col-md-6 event-item">
 <div class="event-thumb">
 <img src="assets/img/event2.jpg" alt="">
-<div class="event-date">
-<span>22 Mar 2019</span>
+
 </div>
-</div>
-<div class="event-info">
-<h4>University interview tips:<br>confidence won't make up for flannel</h4>
-<p><i class="fa fa-calendar-o"></i> 08:00 AM - 10:00 AM <i class="fa fa-map-marker"></i> Center Building, Block A</p>
-<a href="" class="event-readmore">REGISTER <i class="fa fa-angle-double-right"></i></a>
-</div>
+
 </div>
 </div>
 </div>
@@ -282,6 +274,9 @@
 
 <div class="gallery-section">
     <div class="gallery container">
+        <div class="gallery-head">
+            <h3>Gallery</h3>
+        </div>
         <div class="grid-sizer">
             <div class="gallery-item gi-big set-bg" data-setbg="assets/img/gal1.jpg">
                 <a class="img-popup" href="assets/img/gal1.jpg"><i class="ti-plus"></i></a>
@@ -380,7 +375,7 @@
 </div>
 </section>
 
-
+<!--
 <section class="newsletter-section">
 <div class="container">
 <div class="row">
@@ -399,7 +394,7 @@
 </div>
 </div>
 </section>
-
+-->
 
 <!--footer section-->
 <?php require_once ('footer.php'); ?>
