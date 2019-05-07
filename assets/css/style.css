@@ -350,7 +350,7 @@ ol {
 -----------------------*/
 
 .hs-item {
-	min-height: 760px;
+	min-height: 500px;
 	position: relative;
 	display: table;
 	width: 100%;
@@ -1919,6 +1919,9 @@ ol {
 	.header-section {
 		padding: 0px ;
 	}
+	.menu-apply a {
+		margin-right: 55px;
+	}
 }
 .about-widget img {
     width: 50px;
@@ -2177,4 +2180,19 @@ li.sub-about-item {
 	margin-bottom: 40px;
 	margin-top: 40px;
 	margin-left: 20px;
+}
+i.fa.fa-map-marker {
+	margin-right: 10px;
+}
+i.fa.fa-phone {
+	margin-right: 10px;
+}
+i.fa.fa-envelope {
+	margin-right: 10px;
+}
+i.fa.fa-clock-o {
+	margin-right: 10px;
+}
+a.__cf_email__ {
+	color: #b7b7b7;
 }

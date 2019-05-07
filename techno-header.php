@@ -51,7 +51,7 @@
     <div class="share-icon-wrapper">
         <ul id=show>
             <li class="sub-share">
-                <a href="">
+                <a href="https://www.facebook.com/swiet.ajmer.52">
                     <span class="fa-stack fa-2x">
                       <i class="fas fa-square fa-stack-2x"></i>
                       <i class="fab fa-facebook fa-stack-1x fa-inverse"></i>
@@ -61,7 +61,7 @@
 
             </li>
             <li class="sub-share">
-                <a href="">
+                <a href="https://twitter.com/StColleges">
                      <span class="fa-stack fa-2x">
                       <i class="fas fa-square fa-stack-2x"></i>
                       <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
@@ -70,7 +70,7 @@
 
             </li>
             <li class="sub-share">
-                <a href="">
+                <a href="https://www.instagram.com/stwilfredsajmer/">
                      <span class="fa-stack fa-2x">
                       <i class="fas fa-square fa-stack-2x"></i>
                       <i class="fab fa-instagram fa-stack-1x fa-inverse"></i>

@@ -22,12 +22,12 @@
                     <ul>
                         <li><a href="index.php">Home</a></li>
                         <li><a href="contact-us.php">Contact us</a></li>
-                        <li><a href="">Services</a></li>
+                        <li><a href="http://www.rtu.ac.in/RTU/b-tech-2012-13">Syllabus</a></li>
 
 
                     </ul>
                     <ul>
-                        <li><a href="">Policy</a></li>
+
                         <li><a href="">Term</a></li>
                         <li><a href="">Help</a></li>
                         <li><a href="https://goo.gl/maps/c2K3hVundcbYvqZ36">Google map</a></li>
@@ -64,7 +64,7 @@
     <div class="copyright">
         <div class="container">
             <p>
-                Copyright &copy;<script data-cfasync="false" src="assets/js/email-decode.min.js"></script><script type="c243937f5193755f7bca314b-text/javascript">document.write(new Date().getFullYear());</script> All rights reserved | This website is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://www.facebook.com/sahail.khan.77985" target="_blank">Suhail Gour</a>
+                Copyright &copy;<script data-cfasync="false" src="assets/js/email-decode.min.js"></script><script type="c243937f5193755f7bca314b-text/javascript">document.write(new Date().getFullYear());</script> All rights reserved | This website is made with <i class="fas fa-heart"></i> by <a href="https://www.facebook.com/sahail.khan.77985" target="_blank">Suhail Gour</a>
             </p>
         </div>
     </div>
